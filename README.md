@@ -1,4 +1,11 @@
-# mdillon3.github.io
+# Megan Dillon
+
+## About Me
+I am a second year PhD student in the genetics program at NC State University. I am interested in conservation genetics, and I am currently studying the genetics of dogs living around the Chernobyl Nuclear Power Plant.
+
+
+
+
 
 ## Abstract
 
