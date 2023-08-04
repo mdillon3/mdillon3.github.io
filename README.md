@@ -1,17 +1,19 @@
 # Megan Dillon
 
 ## About Me
-I am a third year PhD student in the genetics program at North Carolina State University. I am currently studying the genetics of dogs living around the Chernobyl Nuclear Power Plant.
+I am a fourth year PhD candidate in the genetics program at North Carolina State University. I am studying the genetics of dogs living around the Chernobyl Nuclear Power Plant.
+
+
+## Check out our recent publication in _Canine Medicine and Genetics_:
+https://doi.org/10.1186/s40575-023-00124-1
+
+
+## ABSTRACT
+In 1986, an explosion at the Chernobyl Nuclear Power Plant released hundreds of tons of radioactive debris that contaminated the surrounding environments. In addition to the radioactive materials, the area surrounding the power plant was further contaminated by subsequent remediation efforts which introduced heavy metals, organics, and other hazardous compounds. While the Chernobyl Nuclear Power Plant is the site of the world's largest nuclear disaster and produced an extremely unique environment, there are 1,877 sites in the United States that the Environmental Protection Agency recognizes as superfund sites, defined as a polluted location that requires long-term cleanup. These areas can contain harmful chemical and environmental toxicants, such as lead, arsenic, and mercury, and pose a threat to local inhabitants. Many species of wildlife still inhabit Chernobyl Exclusion Zone (CEZ) where they have been continuously exposed to the harmful environment for potentially many generations. Our research focuses on unowned, semi-feral dogs living within the CEZ: one population living around the Chernobyl Nuclear Power Plant and one living 16 km away in Chernobyl City. By studying their genetics, we can better predict how humans and wildlife living in similarly harsh environments may be impacted. Through genetic analyses of these semi-feral dogs, we have identified a striking level of genetic diversity between a population at the power plant and other, outside populations, and evidence suggestive of directional selection. Though once domestic, these now free-breeding dogs will provide insights towards the genetic response of exposed communities to environmental contaminants.
 
 
 
-
-
-## Abstract
-
-### Search for Local Adaptation in Dogs Living in Chernobyl
-
-The 1986 Chernobyl Nuclear Power Plant (NPP) disaster released roughly 5,000 petabecquerels of radioisotopes into the surrounding environment. A roughly ~30 km radius surrounding the NPP, named the Chernobyl Exclusion Zone (CEZ), was evacuated, and remains predominantly abandoned to this day. In addition to radioactive contamination, initial remediation efforts, as well as various abandoned military and industrial facilities, have resulted in release of toxic/heavy metals, organics, pesticides, and other environmental toxins. Despite an attempt to eliminate all domestic and agricultural animals shortly after the accident, several hundred dogs, presumably descendants of abandoned household pets, now inhabit the CEZ. This study focused on two populations of these dogs, one living around the NPP and one living approximately 16.5 km away in Chernobyl City. We aimed to quantify the degree of local adaptation of NPP dogs to the multi-generational exposures of various hazardous materials. We have worked towards elucidating the population structure of these dogs and identified outlier loci that are indicative of genomic regions under candidate positive selection. We found a significant degree of genetic differentiation, despite some amount of overlap and genetic similarity between the populations. Outlier analysis highlighted 52 candidate genes, with Gene Ontology terms relating to response to ionizing radiation and DNA damage signaling. These putative candidate genes are being pursued to identify potential variants that may be under selection. Our findings add to the general understanding of the genetic effects from prolonged exposure to radiation, heavy metals, and other contaminants.
+![image](https://github.com/mdillon3/mdillon3.github.io/assets/79996120/44090f55-0d2c-495d-bdc0-dcc21260b69d)
 
 
 
